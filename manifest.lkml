@@ -6,7 +6,7 @@
   mount_points: {
     dashboard_vis: yes
     dashboard_tile: yes
-    standalone: yes
+    standalone: no
   }
   entitlements: {
     use_form_submit: yes
